@@ -58,4 +58,4 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 Or copy the APK to your phone and open it to install.
 
 
-If you prefer automatic building via GitHub, push this project to a GitHub repo and GitHub Actions will create `app-debug` artifact on each push to `main` or when you run the workflow manually.
+If you prefer automatic building via GitHub, push this project to a GitHub repo and GitHub Actions will create `app-debug` artifact on each push to `main` or when you run the workflow manually. 
